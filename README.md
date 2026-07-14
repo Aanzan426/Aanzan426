@@ -1,55 +1,120 @@
 <!-- animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000814,45:003559,100:00B8DE&text=Deepaansh%20Sial&fontSize=52&fontColor=E6FCFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%C2%B7%20Frappe%2FERPNext%20%C2%B7%20SLMs%20%26%20ML&descSize=17&descAlignY=56" width="100%" alt="Deepaansh Sial"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000814,45:003559,100:00B8DE&text=Deepaansh%20Sial&fontSize=52&fontColor=E6FCFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%C2%B7%20Frappe%2FERPNext%20%C2%B7%20SLMs%20%C2%B7%20ML%20%C2%B7%20DevOps&descSize=17&descAlignY=56" width="100%" alt="Deepaansh Sial"/>
 
 <div align="center">
 
-<!-- typing intro -->
+<!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Frappe+%2F+ERPNext+%C2%B7+React+%C2%B7+Python;currently+building+with+SLMs+%26+ML;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club;AI+%26+Data+Science+undergrad+%C2%B7+Pune" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Hello%2C+Deepaansh+here!+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+Frappe%2FERPNext;exploring+SLMs%2C+ML+%26+DevOps;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club" alt="Typing SVG" />
 </a>
 
+<br/>
+
+> *❝ I fight for the users. ❞*
+
+<div align="center">
+  <a href="https://marsmcoe.netlify.app/">
+    <img src="https://img.shields.io/badge/%E2%9F%A1_M.A.R.S_—_Official_Club_Website-010409?style=flat-square&color=010409" alt="MARS Website"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Social Badges -->
 <p>
-  <a href="mailto:deepaansh.d.sial@gmail.com"><img src="https://img.shields.io/badge/gmail-deepaansh.d.sial-0A192F?style=flat-square&logo=gmail&logoColor=00D9FF"/></a>
-  <a href="https://www.linkedin.com/in/deepaanshsial/"><img src="https://img.shields.io/badge/linkedin-deepaanshsial-0A192F?style=flat-square&logo=linkedin&logoColor=00D9FF"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AanZan426&style=flat-square&color=00B4D8&label=visitors"/>
+  <a href="mailto:deepaansh.d.sial@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+  <a href="https://www.linkedin.com/in/deepaanshsial/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AanZan426&style=flat-square&color=00B4D8&label=Profile+Views" />
+</p>
+
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake.svg" />
+</picture>
 
 <!-- light trail -->
 <img src="assets/tron-trail.svg" width="820" alt="A neon light trail draws across the grid"/>
 
 </div>
 
+---
+
 ## 🧠 About Me
 
 ```ts
 const deepaansh = {
-  role: "Full Stack Developer Intern @ Unity Education Solutions",
-  clubRole: "Head — CS/IT/AI Department @ M.A.R.S Club, MCOE",
-  education: "Final-year B.E. AI & Data Science @ Modern College of Engineering, Pune ('27)",
+  role: "Full Stack Developer | SLM & ML Enthusiast",
   location: "Pune, India 🇮🇳",
-
-  dailyDrivers: ["Frappe/ERPNext", "Python", "React + TypeScript", "MariaDB"],
-  currentlyWorkingOn: [
-    "Small Language Models (SLMs) & machine learning",
-    "payment, data & automation features on a live school ERP",
-  ],
-  currentlyLearning: ["Docker", "WordPress plugin & theme development"],
-
-  loveDiscussing: ["system design", "space systems & attitude control", "tests that prove it actually works"],
-  funFact: "cleared the NDA written exam five times in a row — consistency is a habit",
-  openTo: ["collaborations", "Frappe/ERPNext work", "hard problems"],
+  currentRole: "Full Stack Intern @ Unity Education Solutions | Head of CS/IT/AI @ M.A.R.S Club",
+  currentlyLearning: ["Small Language Models", "Machine Learning", "DevOps", "Docker"],
+  currentlyWorkingOn: ["school-ERP payments & automations (Frappe/ERPNext)", "SLM & ML experiments", "CubeSat AOCS"],
+  loveDiscussing: ["system design", "space systems & attitude control", "emerging tech", "hard problems"],
+  funFact: "cleared the NDA written exam 5 times in a row — consistency is a habit",
+  openTo: "Collaborations, Frappe/ERPNext work, and hard problems"
 };
 ```
 
-## ⚡ Shipped to production
+---
 
-Not side projects — features running on live school-ERP sites used by real schools. **25+ merged PRs, 90+ automated tests** at Unity Education Solutions so far:
+## 🛠️ Tech Stack
 
-- Built the **Instant Fee** payment feature end-to-end: paginated REST APIs, a React/TypeScript infinite-scroll UI localised in three languages, and checkout across **three payment gateways** — Easebuzz, GrayQuest, Razorpay.
-- **Found and fixed a permission-bypass vulnerability** in a whitelisted API, then audited the payment-callback chain across all three gateways for missing signature verification.
-- Rebuilt a Facebook Lead Ads → ERPNext pipeline to be **durable and idempotent** — HMAC-authenticated webhooks, exactly-once dedup, raw payloads persisted before processing, failure digests to Discord and email. Backed by 22 tests.
-- Generated a fully anonymised **synthetic dataset** for a 34-app demo site — after proving clone-and-scrub couldn't be made provably clean across 115+ denormalised text columns — then wrote a PII leak-scanner to keep it that way.
-- Automated the purchase-order lifecycle and closed hiring-flow gaps across six HR apps, everything live-verified end-to-end with **Playwright**.
+### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css" />
+</p>
+
+### AI · ML & Data
+<p>
+  <img src="https://img.shields.io/badge/Small_Language_Models-010409?style=for-the-badge&logo=huggingface&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-010409?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Jupyter-010409?style=for-the-badge&logo=jupyter&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/NLP-010409?style=for-the-badge&logo=abstract&logoColor=00D9FF"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Frappe-010409?style=for-the-badge&logo=frappe&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/ERPNext-010409?style=for-the-badge&logo=frappe&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Jinja-010409?style=for-the-badge&logo=jinja&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/REST_APIs-010409?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MariaDB-010409?style=for-the-badge&logo=mariadb&logoColor=00D9FF" height="48"/>
+</p>
+
+### DevOps, Tools & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Playwright-010409?style=for-the-badge&logo=playwright&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/WordPress_dev-010409?style=for-the-badge&logo=wordpress&logoColor=00D9FF"/>
+</p>
+
+### Frontend (working knowledge)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+---
+
+## 💼 Shipped to Production
+
+Features running on live school-ERP sites used by real schools — **25+ merged PRs, 90+ automated tests** at Unity Education Solutions:
+
+- Built the **Instant Fee** payment feature end-to-end: paginated REST APIs, an infinite-scroll UI localised in three languages, and checkout across **three payment gateways** — Easebuzz, GrayQuest, Razorpay.
+- **Found and fixed a permission-bypass vulnerability** in a whitelisted API, then audited the payment-callback chain across all three gateways.
+- Rebuilt a Facebook Lead Ads → ERPNext pipeline to be **durable and idempotent** — HMAC-authenticated webhooks, exactly-once dedup, failure digests to Discord and email. Backed by 22 tests.
+- Generated a fully anonymised **synthetic dataset** for a 34-app demo site and wrote a PII leak-scanner to keep it that way.
+- Automated the purchase-order lifecycle and closed hiring-flow gaps across six HR apps — live-verified end-to-end with **Playwright**.
+
+---
 
 ## 🔴 M.A.R.S
 
@@ -61,67 +126,164 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 
 <br clear="right"/>
 
-## 🧰 Loadout
+---
 
-```text
-languages   Python · PHP · SQL · JavaScript/TypeScript · HTML/CSS
-backend     Frappe/ERPNext · REST API design · webhooks & integrations · Jinja
-frontend    React + TypeScript · vanilla JS when it's enough
-ml / ai     small language models (SLMs) · ML with Python · LLM code evaluation (ex-DataAnnotation)
-data        MariaDB/MySQL — schema design, indexing, query optimisation · ETL · synthetic data
-testing     Playwright · unit & regression suites · permission test suites
-tools       Git/GitHub · Frappe bench · Pabbly Connect
-learning    Docker · WordPress plugin & theme development
-```
+## 🚀 Projects
 
-## 🛠️ Things I've built
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Vault — offline password manager](https://github.com/AanZan426/pass-manager-mobile)** — deterministic, high-entropy passwords derived from a single master phrase; nothing leaves the browser, nothing stored in plaintext. Deployed on GitHub Pages and used daily on my own phone. `JavaScript · crypto hashing · GitHub Pages`
+<h3>🔐 <a href="https://github.com/AanZan426/pass-manager-mobile">Vault — Offline Password Manager</a></h3>
+<i>Jun 2026</i> — deployed on GitHub Pages, used daily on my own phone
 
-**[Smart Campus Resource Manager](https://github.com/AanZan426/Smart-Campus-Resource-Manager)** — booking system for classrooms, labs and equipment where double-booking is impossible by design: relational constraints at the database level, a slot algorithm with automatic expiry, and an admin dashboard on top. `PHP · MySQL · JavaScript`
+<details>
+<summary>Highlights</summary>
 
-**E-Value — personal finance manager** *(private · [@Evaluers](https://github.com/Evaluers))* — tracks my actual expenses, savings and fund allocations, with analytics that show where the money really goes. Eating my own dog food since Nov 2025. `Python · JSON · data analytics`
+- Deterministic high-entropy passwords from one master phrase
+- Configurable output entropy up to 64 bits
+- No plaintext, no backend, no internet required
+</details>
 
-**[CanonCheck](https://github.com/AanZan426/Cannon_Check)** — a validated, similarity-based system that verifies fictional character backstories against the canonical texts. Measured, not vibes. `Python · Jupyter · NLP`
+![JS](https://img.shields.io/badge/-JavaScript-010409?style=flat-square&logo=javascript&logoColor=00D9FF)
+![Crypto](https://img.shields.io/badge/-Crypto_Hashing-010409?style=flat-square&logo=letsencrypt&logoColor=00D9FF)
+![Pages](https://img.shields.io/badge/-GitHub_Pages-010409?style=flat-square&logo=github&logoColor=00D9FF)
 
-**[Green-AI-UHI](https://github.com/AanZan426/Green-AI-UHI)** — predicts 2027 zone-wise temperatures for Pune, then computes how many neem trees each zone needs to cool back down to a 25 °C median. `Python · predictive modelling`
+</td>
+<td width="50%" valign="top">
 
-**[RSVP Reader](https://github.com/AanZan426/rapid-serial-visual-presentation)** — speed-reading app that flashes books word-by-word using Rapid Serial Visual Presentation, built for clean chapter-per-file PDFs. `HTML · JavaScript · Python`
+<h3>🏫 <a href="https://github.com/AanZan426/Smart-Campus-Resource-Manager">Smart Campus Resource Manager</a></h3>
+<i>Jan 2026 – Present</i> — conflict-free booking for classrooms, labs & equipment
 
-## 🏆 Off the keyboard
+<details>
+<summary>Highlights</summary>
 
-- **AIR 242 · NDA 154th Course (Navy), 2025** — cleared the written exam **five consecutive times** (150th–154th).
-- **District-level archery gold medalist**, Indian bow.
-- **Department topper list**, B.E. AI & DS — 9.77/10 in Semester I, 8.93 CGPA overall.
+- Slot-based scheduling with automatic expiry
+- Double-booking blocked at the database level
+- Admin dashboard for live resource oversight
+</details>
 
-**Certified:** AI Fluency — Anthropic ('26) · Cybersecurity Fundamentals, Python for Data Science, AI Fundamentals, ML with Python L1 — IBM ('26)
+![PHP](https://img.shields.io/badge/-PHP-010409?style=flat-square&logo=php&logoColor=00D9FF)
+![MySQL](https://img.shields.io/badge/-MySQL-010409?style=flat-square&logo=mysql&logoColor=00D9FF)
+![JS](https://img.shields.io/badge/-JavaScript-010409?style=flat-square&logo=javascript&logoColor=00D9FF)
 
-## 📊 Telemetry
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💰 <a href="https://github.com/Evaluers">E-Value — Personal Finance Manager</a></h3>
+<i>Nov 2025 – Present · private @Evaluers</i> — eating my own dog food
+
+<details>
+<summary>Highlights</summary>
+
+- Tracks real expenses, savings & fund allocation
+- Analytics surfacing spending trends over time
+- Persistent JSON storage, modular reporting
+</details>
+
+![Python](https://img.shields.io/badge/-Python-010409?style=flat-square&logo=python&logoColor=00D9FF)
+![JSON](https://img.shields.io/badge/-JSON-010409?style=flat-square&logo=json&logoColor=00D9FF)
+![Analytics](https://img.shields.io/badge/-Data_Analytics-010409?style=flat-square&logo=chartdotjs&logoColor=00D9FF)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📚 <a href="https://github.com/AanZan426/Cannon_Check">CanonCheck</a></h3>
+<i>Jan 2026</i> — verifies fictional backstories against canonical texts
+
+<details>
+<summary>Highlights</summary>
+
+- Validated similarity-based scoring
+- Measured against source canon — not vibes
+- Built end-to-end in notebooks
+</details>
+
+![Python](https://img.shields.io/badge/-Python-010409?style=flat-square&logo=python&logoColor=00D9FF)
+![Jupyter](https://img.shields.io/badge/-Jupyter-010409?style=flat-square&logo=jupyter&logoColor=00D9FF)
+![NLP](https://img.shields.io/badge/-NLP-010409?style=flat-square&logo=abstract&logoColor=00D9FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌳 <a href="https://github.com/AanZan426/Green-AI-UHI">Green-AI-UHI</a></h3>
+<i>Jan 2026</i> — urban heat island analysis for Pune
+
+<details>
+<summary>Highlights</summary>
+
+- Predicts 2027 zone-wise temperatures
+- Computes neem trees needed per zone
+- Targets a 25 °C median temperature
+</details>
+
+![Python](https://img.shields.io/badge/-Python-010409?style=flat-square&logo=python&logoColor=00D9FF)
+![ML](https://img.shields.io/badge/-Predictive_Modelling-010409?style=flat-square&logo=tensorflow&logoColor=00D9FF)
+![HTML](https://img.shields.io/badge/-HTML-010409?style=flat-square&logo=html5&logoColor=00D9FF)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ <a href="https://github.com/AanZan426/rapid-serial-visual-presentation">RSVP Speed Reader</a></h3>
+<i>Mar 2026</i> — read books word-by-word, fast
+
+<details>
+<summary>Highlights</summary>
+
+- Rapid Serial Visual Presentation method
+- Optimised for clean chapter-per-file PDFs
+- Zero-dependency, browser-based
+</details>
+
+![HTML](https://img.shields.io/badge/-HTML-010409?style=flat-square&logo=html5&logoColor=00D9FF)
+![JS](https://img.shields.io/badge/-JavaScript-010409?style=flat-square&logo=javascript&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/-Python-010409?style=flat-square&logo=python&logoColor=00D9FF)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+- 🎖️ **AIR 242 · NDA 154th Course (Navy), 2025** — cleared the written exam **five consecutive times** (150th–154th)
+- 🛰️ **Head, Attitude & Orbit Control System (AOCS)** — college CubeSat mission
+- 🏹 **District-Level Archery Gold Medalist** (Indian Bow)
+- 📜 **Department Topper List** — B.E. AI & DS, 9.77/10 in Semester I · 8.93 CGPA overall
+- 🧾 **Certified:** AI Fluency — Anthropic · Cybersecurity, Python for DS, AI Fundamentals, ML with Python — IBM
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AanZan426&show_icons=true&hide_border=true&bg_color=010409&title_color=00D9FF&icon_color=22D3EE&text_color=B6EAFA&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanZan426&layout=compact&hide_border=true&bg_color=010409&title_color=00D9FF&text_color=B6EAFA" height="170" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AanZan426&theme=2077" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AanZan426&theme=2077" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AanZan426&bg_color=010409&color=00D9FF&line=22D3EE&point=E0FFFF&area=true&hide_border=true" alt="Contribution graph"/>
+  <img src="https://streak-stats.demolab.com?user=AanZan426&hide_border=true&background=010409&ring=00D9FF&fire=22D3EE&currStreakLabel=00D9FF&sideLabels=B6EAFA&currStreakNum=E0FFFF&sideNums=E0FFFF&dates=7DD3FC" alt="GitHub Streak" />
 </div>
 
-<!-- contribution snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake-dark.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake.svg"/>
-  </picture>
-</div>
+## 📈 Contribution Graph
 
 <div align="center">
-
-**[deepaansh.d.sial@gmail.com](mailto:deepaansh.d.sial@gmail.com)** — always up for Frappe questions, hard problems, or a round of archery.
-
-`— END OF LINE —`
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AanZan426&bg_color=010409&color=00D9FF&line=22D3EE&point=E0FFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000814,45:003559,100:00B8DE&section=footer" width="100%" alt=""/>
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something cool together!
+
+*"— END OF LINE —"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000814,45:003559,100:00B8DE&section=footer" />
+
+</div>
