@@ -1,13 +1,17 @@
+<!-- animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000814,45:003559,100:00B8DE&text=Deepaansh%20Sial&fontSize=52&fontColor=E6FCFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Deepaansh Sial"/>
+
 <div align="center">
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Hello%2C+Deepaansh+here!+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+Frappe%2FERPNext;Extensive+work+on+SLMs%2C+ML+%26+DevOps;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Hello%2C+Deepaansh+here!+%F0%9F%91%8B;building+my+own+J.A.R.V.I.S;SLM+agent+fleet+%C2%B7+MLM+in+command;Full+Stack+Developer+%C2%B7+Frappe%2FERPNext;I+ship+tools+I+use+every+day;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club" alt="Typing SVG" />
 </a>
 
 <br/>
 
-> *❝ Aut viam inveniam aut faciam. ❞*
+> *❝ Aut viam inveniam aut faciam ❞*
+> <sub>— I shall either find a way, or make one.</sub>
 
 <div align="center">
   <a href="https://marsmcoe.netlify.app/">
@@ -48,8 +52,12 @@ const deepaansh = {
   role: "Full Stack Developer | SLM & ML Enthusiast",
   location: "Pune, India 🇮🇳",
   currentRole: "Full Stack Intern @ Unity Education Solutions | Head of CS/IT/AI @ M.A.R.S Club",
-  currentlyLearning: ["Small Language Models", "Machine Learning", "DevOps", "Docker"],
-  currentlyWorkingOn: ["school-ERP payments & automations (Frappe/ERPNext)", "SLM & ML experiments", "CubeSat AOCS"],
+  currentlyLearning: ["Small Language Models", "Machine Learning", "Data Pipelining (Airflow · Airbyte · dbt)", "DevOps", "Docker"],
+  currentlyWorkingOn: [
+    "J.A.R.V.I.S — a personal multi-agent system: SLM specialists, one MLM calling the shots",
+    "school-ERP payments & automations (Frappe/ERPNext)",
+    "CubeSat AOCS",
+  ],
   loveDiscussing: ["system design", "space systems & attitude control", "emerging tech", "hard problems"],
   funFact: "cleared the NDA written exam 5 times in a row — consistency is a habit",
   openTo: "Collaborations, Frappe/ERPNext work, and hard problems"
@@ -62,42 +70,50 @@ const deepaansh = {
 
 ### Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,react,html,css" />
-  <img src="https://img.shields.io/badge/SQL-010409?style=for-the-badge&logo=mysql&logoColor=00D9FF" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,php,js,react,html,css" alt="Python, PHP, JavaScript, React, HTML, CSS" />
+  <img src="assets/icons/sql.svg" alt="SQL" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://img.shields.io/badge/MariaDB-010409?style=for-the-badge&logo=mariadb&logoColor=00D9FF" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
+  <img src="assets/icons/mariadb.svg" alt="MariaDB" />
+</p>
+
+### Data Engineering & ETL
+<p>
+  <img src="assets/icons/airflow.svg" alt="Apache Airflow" />
+  <img src="assets/icons/airbyte.svg" alt="Airbyte" />
+  <img src="assets/icons/dbt-core.svg" alt="dbt Core" />
 </p>
 
 ### AI Agents & LLM Tooling
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-010409?style=for-the-badge&logo=claude&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/ChatGPT-010409?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mistral-010409?style=for-the-badge&logo=mistralai&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Qwen-010409?style=for-the-badge&logo=qwen&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Ollama-010409?style=for-the-badge&logo=ollama&logoColor=00D9FF"/>
+  <img src="assets/icons/claude-code.svg" alt="Claude Code" />
+  <img src="assets/icons/chatgpt.svg" alt="ChatGPT" />
+  <img src="assets/icons/mistral.svg" alt="Mistral" />
+  <img src="assets/icons/qwen.svg" alt="Qwen" />
+  <img src="assets/icons/ollama.svg" alt="Ollama" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Frappe-010409?style=for-the-badge&logo=frappe&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/ERPNext-010409?style=for-the-badge&logo=frappe&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Jinja-010409?style=for-the-badge&logo=jinja&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/REST_APIs-010409?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
+  <img src="assets/icons/frappe.svg" alt="Frappe" />
+  <img src="assets/icons/erpnext.svg" alt="ERPNext" />
+  <img src="assets/icons/jinja.svg" alt="Jinja" />
+  <img src="assets/icons/rest-apis.svg" alt="REST APIs" />
 </p>
 
 ### Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-  <img src="https://img.shields.io/badge/openSUSE-010409?style=for-the-badge&logo=opensuse&logoColor=00D9FF" height="48"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" alt="Windows, Linux, Ubuntu" />
+  <img src="assets/icons/opensuse.svg" alt="openSUSE" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,wordpress" alt="Git, GitHub, Docker, WordPress" />
+  <img src="assets/icons/libreoffice.svg" alt="LibreOffice" />
 </p>
 
 ---
@@ -281,8 +297,6 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 
 ### 💬 Let's connect and build something cool together!
 
-*"— END OF LINE —"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000814,45:003559,100:00B8DE&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000814,45:003559,100:00B8DE&section=footer&text=%E2%80%94%20END%20OF%20LINE%20%E2%80%94&fontSize=15&fontColor=7DD3FC&fontAlignY=72" width="100%" alt="— END OF LINE —"/>
 
 </div>

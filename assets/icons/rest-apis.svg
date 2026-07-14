@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294 120" width="118" height="48" role="img" aria-label="REST APIs">
+  <rect x="3" y="3" width="288" height="114" rx="26" fill="#242938" stroke="#00D9FF" stroke-opacity="0.4" stroke-width="2.5"/>
+  <g transform="translate(26,32) scale(2.3333)">
+    <path d="M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0 4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" fill="#00D9FF"/>
+  </g>
+  <text x="98" y="61" dominant-baseline="central" textLength="170" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-weight="600" font-size="34" fill="#D6F6FF">REST APIs</text>
+</svg>

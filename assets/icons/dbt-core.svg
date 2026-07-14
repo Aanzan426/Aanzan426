@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 120" width="109" height="48" role="img" aria-label="dbt Core">
+  <rect x="3" y="3" width="266" height="114" rx="26" fill="#242938" stroke="#00D9FF" stroke-opacity="0.4" stroke-width="2.5"/>
+  <g transform="translate(26,32) scale(2.3333)">
+    <path d="M6.99 11 3 15l3.99 4v-3H14v-2H6.99v-3zM21 9l-3.99-4v3H10v2h7.01v3L21 9z" fill="#00D9FF"/>
+  </g>
+  <text x="98" y="61" dominant-baseline="central" textLength="148" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-weight="600" font-size="34" fill="#D6F6FF">dbt Core</text>
+</svg>
