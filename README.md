@@ -1,6 +1,3 @@
-<!-- animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000814,45:003559,100:00B8DE&text=Deepaansh%20Sial&fontSize=52&fontColor=E6FCFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Deepaansh Sial"/>
-
 <div align="center">
 
 <!-- Animated Header -->
