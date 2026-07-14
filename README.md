@@ -65,41 +65,42 @@ const deepaansh = {
 
 ### Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,react,html,css" />
+  <img src="https://img.shields.io/badge/SQL-010409?style=for-the-badge&logo=mysql&logoColor=00D9FF" height="48"/>
 </p>
 
-### AI · ML & Data
+### Databases
 <p>
-  <img src="https://img.shields.io/badge/Small_Language_Models-010409?style=for-the-badge&logo=huggingface&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-010409?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Jupyter-010409?style=for-the-badge&logo=jupyter&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/NLP-010409?style=for-the-badge&logo=abstract&logoColor=00D9FF"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://img.shields.io/badge/MariaDB-010409?style=for-the-badge&logo=mariadb&logoColor=00D9FF" height="48"/>
 </p>
 
-### Backend & Databases
+### AI Agents & LLM Tooling
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-010409?style=for-the-badge&logo=claude&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/ChatGPT-010409?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mistral-010409?style=for-the-badge&logo=mistralai&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Qwen-010409?style=for-the-badge&logo=qwen&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Ollama-010409?style=for-the-badge&logo=ollama&logoColor=00D9FF"/>
+</p>
+
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Frappe-010409?style=for-the-badge&logo=frappe&logoColor=00D9FF"/>
   <img src="https://img.shields.io/badge/ERPNext-010409?style=for-the-badge&logo=frappe&logoColor=00D9FF"/>
   <img src="https://img.shields.io/badge/Jinja-010409?style=for-the-badge&logo=jinja&logoColor=00D9FF"/>
   <img src="https://img.shields.io/badge/REST_APIs-010409?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
 </p>
+
+### Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/MariaDB-010409?style=for-the-badge&logo=mariadb&logoColor=00D9FF" height="48"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  <img src="https://img.shields.io/badge/openSUSE-010409?style=for-the-badge&logo=opensuse&logoColor=00D9FF" height="48"/>
 </p>
 
-### DevOps, Tools & Testing
+### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Playwright-010409?style=for-the-badge&logo=playwright&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/WordPress_dev-010409?style=for-the-badge&logo=wordpress&logoColor=00D9FF"/>
-</p>
-
-### Frontend (working knowledge)
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,wordpress" />
 </p>
 
 ---
