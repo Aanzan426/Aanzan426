@@ -7,7 +7,7 @@
 
 <br/>
 
-> *❝ I fight for the users. ❞*
+> *❝ Aut viam inveniam aut faciam. ❞*
 
 <div align="center">
   <a href="https://marsmcoe.netlify.app/">
