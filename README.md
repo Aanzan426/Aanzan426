@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Salvete Viatores;Deepaansh+Sial+here!+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+Frappe%2FERPNext;I+ship+tools+I+use+every+day;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club;Building+my+own+J.A.R.V.I.S;SLM+Agent+Fleet+%C2%B7+MLM+in+command;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Hello%2C+Deepaansh+here!+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+Frappe%2FERPNext;I+ship+tools+I+use+every+day;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club;Building+my+own+J.A.R.V.I.S;SLM+Agent+Fleet+%C2%B7+MLM+in+command;" alt="Typing SVG" />
 </a>
 
 <br/>
