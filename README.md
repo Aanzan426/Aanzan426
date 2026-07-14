@@ -1,3 +1,6 @@
+<!-- animated wave header -->
+<img src="assets/wave-header.svg" width="100%" alt="Deepaansh Sial"/>
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -8,6 +11,7 @@
 <br/>
 
 > *❝ Aut viam inveniam aut faciam ❞*
+> <sub>— I shall either find a way, or make one.</sub>
 
 <div align="center">
   <a href="https://marsmcoe.netlify.app/">
@@ -184,7 +188,7 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 <td width="50%" valign="top">
 
 <h3>💰 <a href="https://github.com/Evaluers">E-Value — Personal Finance Manager</a></h3>
-<i>Nov 2025 – Present · private @Evaluers</i> — eating my own dog food
+<i>Nov 2025 – Present · private @Evaluers</i> — my own money runs through it daily
 
 <details>
 <summary>Highlights</summary>
@@ -293,6 +297,6 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 
 ### 💬 Let's connect and build something cool together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000814,45:003559,100:00B8DE&section=footer&text=%E2%80%94%20END%20OF%20LINE%20%E2%80%94&fontSize=15&fontColor=7DD3FC&fontAlignY=72" width="100%" alt="— CRAS ITERUM —"/>
+<img src="assets/wave-footer.svg" width="100%" alt="— CRAS ITERUM —"/>
 
 </div>

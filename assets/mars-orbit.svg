@@ -11,6 +11,9 @@
     </filter>
   </defs>
 
+  <!-- dark panel so the scene reads on light-theme GitHub too -->
+  <rect x="0" y="0" width="140" height="140" rx="16" fill="#010409" stroke="#00D9FF" stroke-opacity="0.18" stroke-width="1.5"/>
+
   <!-- stars -->
   <g fill="#22D3EE">
     <circle cx="18" cy="24" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>

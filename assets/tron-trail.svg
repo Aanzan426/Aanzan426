@@ -6,6 +6,9 @@
     </filter>
   </defs>
 
+  <!-- dark panel so the trail reads on light-theme GitHub too -->
+  <rect x="0" y="0" width="820" height="110" rx="14" fill="#010409" stroke="#00D9FF" stroke-opacity="0.18" stroke-width="1.5"/>
+
   <!-- digital horizon -->
   <line x1="0" y1="84" x2="820" y2="84" stroke="#0E7490" stroke-width="1.5" opacity="0.3"/>
   <line x1="0" y1="92" x2="820" y2="92" stroke="#0E7490" stroke-width="8" stroke-dasharray="1.5 38.5" opacity="0.22"/>
