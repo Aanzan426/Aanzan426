@@ -293,6 +293,6 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 
 ### 💬 Let's connect and build something cool together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000814,45:003559,100:00B8DE&section=footer&text=%E2%80%94%20END%20OF%20LINE%20%E2%80%94&fontSize=15&fontColor=7DD3FC&fontAlignY=72" width="100%" alt="— END OF LINE —"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000814,45:003559,100:00B8DE&section=footer&text=%E2%80%94%20END%20OF%20LINE%20%E2%80%94&fontSize=15&fontColor=7DD3FC&fontAlignY=72" width="100%" alt="— CRAS ITERUM —"/>
 
 </div>
