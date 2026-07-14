@@ -255,7 +255,7 @@ High-speed reading app using Rapid Serial Visual Presentation
 
 ### 💬 Open to collaborations, Frappe/ERPNext work, and hard problems
 
-*"Aim small, miss small."*
+*"Aim big, miss small."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
