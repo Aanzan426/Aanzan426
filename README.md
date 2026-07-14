@@ -262,8 +262,8 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AanZan426&theme=2077" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AanZan426&theme=2077" height="180" alt="Top Languages" />
+  <img src="profile-summary-card-output/2077/3-stats.svg" height="180" alt="GitHub Stats" />
+  <img src="profile-summary-card-output/2077/1-repos-per-language.svg" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
