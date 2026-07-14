@@ -50,13 +50,13 @@ const deepaansh = {
   currentRole: "Full Stack Intern @ Unity Education Solutions | Head of CS/IT/AI @ M.A.R.S Club",
   currentlyLearning: ["Small Language Models", "Machine Learning", "Data Pipelining (Airflow · Airbyte · dbt)", "DevOps", "Docker"],
   currentlyWorkingOn: [
-    "J.A.R.V.I.S — a personal multi-agent system: SLM specialists, one MLM calling the shots",
-    "school-ERP payments & automations (Frappe/ERPNext)",
+    "S.A.R.I.A.H — a personal multi-agent system: SLM specialists, one MLM calling the shots",
+    "School-ERP payments & automations (Frappe/ERPNext)",
     "CubeSat AOCS",
   ],
-  loveDiscussing: ["system design", "space systems & attitude control", "emerging tech", "hard problems"],
-  funFact: "cleared the NDA written exam 5 times in a row — consistency is a habit",
-  openTo: "Collaborations, Frappe/ERPNext work, and hard problems"
+  loveDiscussing: ["system design", "space systems & controlling the unknown", "emerging tech", "PC hardware specs", "if !thinking outside the box, then, creating the box!!"],
+  funFact: "cleared the NDA written exam 5 times in a row — consistency is a habit (i get things done... period)",
+  openTo: "Collaborations, Frappe/ERPNext work, and Hard problems that push me to my limit"
 };
 ```
 
