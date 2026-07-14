@@ -1,5 +1,5 @@
 <!-- animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000814,45:003559,100:00B8DE&text=Deepaansh%20Sial&fontSize=52&fontColor=E6FCFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%C2%B7%20Frappe%2FERPNext%20%C2%B7%20SLMs%20%C2%B7%20ML%20%C2%B7%20DevOps&descSize=17&descAlignY=56" width="100%" alt="Deepaansh Sial"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000814,45:003559,100:00B8DE&text=Deepaansh%20Sial&fontSize=52&fontColor=E6FCFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Deepaansh Sial"/>
 
 <div align="center">
 
@@ -104,15 +104,16 @@ const deepaansh = {
 
 ---
 
-## 💼 Shipped to Production
+## 💼 Behind the Commit Graph
 
-Features running on live school-ERP sites used by real schools — **25+ merged PRs, 90+ automated tests** at Unity Education Solutions:
+Most of my code lives in private repos — a production ERP platform used daily by real people. The shape of that work:
 
-- Built the **Instant Fee** payment feature end-to-end: paginated REST APIs, an infinite-scroll UI localised in three languages, and checkout across **three payment gateways** — Easebuzz, GrayQuest, Razorpay.
-- **Found and fixed a permission-bypass vulnerability** in a whitelisted API, then audited the payment-callback chain across all three gateways.
-- Rebuilt a Facebook Lead Ads → ERPNext pipeline to be **durable and idempotent** — HMAC-authenticated webhooks, exactly-once dedup, failure digests to Discord and email. Backed by 22 tests.
-- Generated a fully anonymised **synthetic dataset** for a 34-app demo site and wrote a PII leak-scanner to keep it that way.
-- Automated the purchase-order lifecycle and closed hiring-flow gaps across six HR apps — live-verified end-to-end with **Playwright**.
+- 💳 **Payments** — fee-payment flows built end-to-end across multiple payment gateways: hosted checkout, webhook & callback handling, receipts, reconciliation
+- 🛡️ **Security** — gateway-wide payment security auditing, permission hardening on public APIs, HMAC-authenticated webhooks, PII leak-scanning
+- 🔁 **Automation** — durable, idempotent webhook pipelines with alerting & digest reporting; lifecycle automations run safely over hundreds of thousands of live records
+- 🧪 **Testing** — 100+ automated tests shipped alongside features: unit, regression, and live end-to-end runs in a headless browser
+- 🧬 **Data** — fully anonymised demo environments with relationally-valid synthetic data — provably clean, zero integrity errors
+- 🔍 **Root-cause debugging** — down to framework source when needed: core-level bugs found and fixed, a 12-hour hang traced to a single hidden HTTP fan-out
 
 ---
 
@@ -262,8 +263,8 @@ I also lead the **Attitude & Orbit Control System** for the college CubeSat miss
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="profile-summary-card-output/2077/3-stats.svg" height="180" alt="GitHub Stats" />
-  <img src="profile-summary-card-output/2077/1-repos-per-language.svg" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AanZan426&theme=2077" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AanZan426&theme=2077" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
