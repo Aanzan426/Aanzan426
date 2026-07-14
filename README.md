@@ -1,10 +1,12 @@
+<!-- animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,55:7C2D12,100:F97316&text=Deepaansh%20Sial&fontSize=52&fontColor=FFF7ED&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%C2%B7%20Frappe%2FERPNext%20%C2%B7%20AI%20%26%20Data%20Science&descSize=17&descAlignY=56" width="100%" alt="Deepaansh Sial"/>
+
 <div align="center">
 
-# Deepaansh Sial
-
-**I point things at targets — arrows, satellites, and production code.**
-
-Full-stack developer on Frappe/ERPNext · final-year AI & Data Science undergrad · Pune, India
+<!-- typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=I+point+things+at+targets+%F0%9F%8E%AF;arrows+%C2%B7+satellites+%C2%B7+production+code;Frappe+%2F+ERPNext+%C2%B7+React+%C2%B7+Python;Head+of+CS%2FIT%2FAI+%40+M.A.R.S+Club" alt="Typing SVG"/>
+</a>
 
 <p>
   <a href="mailto:deepaansh.d.sial@gmail.com"><img src="https://img.shields.io/badge/gmail-deepaansh.d.sial-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -12,7 +14,8 @@ Full-stack developer on Frappe/ERPNext · final-year AI & Data Science undergrad
   <img src="https://komarev.com/ghpvc/?username=AanZan426&style=flat-square&color=F97316&label=visitors"/>
 </p>
 
-`──────────────────────────────────➤ ◎`
+<!-- the shot -->
+<img src="assets/target-arrow.svg" width="820" alt="An arrow fires from a bow and hits the bullseye"/>
 
 </div>
 
@@ -37,7 +40,13 @@ Not side projects — features running on live school-ERP sites used by real sch
 
 ## 🔴 M.A.R.S
 
-Head of the **CS/IT/AI department** at [M.A.R.S](https://github.com/MARS-MCOE), Modern College of Engineering's tech club, and one of the main developers behind the club's **[official website](https://marsmcoe.netlify.app/)**. I also lead the **Attitude & Orbit Control System** for the college CubeSat mission — the closest my code gets to actually flying.
+<img align="right" src="assets/mars-orbit.svg" width="140" alt="A CubeSat orbiting Mars"/>
+
+Head of the **CS/IT/AI department** at [M.A.R.S](https://github.com/MARS-MCOE), Modern College of Engineering's tech club, and one of the main developers behind the club's **[official website](https://marsmcoe.netlify.app/)**.
+
+I also lead the **Attitude & Orbit Control System** for the college CubeSat mission — the closest my code gets to actually flying.
+
+<br clear="right"/>
 
 ## 🧰 Loadout
 
@@ -84,12 +93,19 @@ learning    Docker · WordPress plugin & theme development
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AanZan426&bg_color=0D1117&color=F97316&line=FBBF24&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph"/>
 </div>
 
----
+<!-- contribution snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Aanzan426/Aanzan426/output/github-snake.svg"/>
+  </picture>
+</div>
 
 <div align="center">
 
 **[deepaansh.d.sial@gmail.com](mailto:deepaansh.d.sial@gmail.com)** — always up for Frappe questions, hard problems, or a round of archery.
 
-`◎ ➤──────────────────────────────────`
-
 </div>
+
+<!-- animated wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,55:7C2D12,100:F97316&section=footer" width="100%" alt=""/>
